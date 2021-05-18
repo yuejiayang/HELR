@@ -1,8 +1,11 @@
 # HELR
 
+
 HELR is a software project for performing a logistic regression training on encrypted data (Secure Logistic Regression based on Homomorphic Encryption: Design and Evaluation (https://medinform.jmir.org/2018/2/e19/))
 
 ## Setting up HELR library 
+### 修改版本1
+rwkk
 
 ### Dependencies
 
